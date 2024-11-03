@@ -8,5 +8,13 @@ Este repositório contém soluções para problemas comuns em competições de p
 
 ## 🗂 Estrutura do Repositório
 
-- **Plataformas:** `Codeforces` e `LeetCode`
+- **Plataformas:** `BeeCrowd` e `Codeforces`
 - **Nível de Dificuldade:** Os problemas estarão marcados com tags indicando o nível de dificuldade (`Fácil`, `Médio`, `Difícil`).
+
+## 🛠 Tecnologias Utilizadas
+
+* **C**, **C++** - Principais linguagens usadas para resolver os problemas.
+
+## 📄 Licença
+
+Este repositório é licenciado sob a [MIT License](LICENSE).
