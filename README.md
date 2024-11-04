@@ -35,7 +35,7 @@ Este repositório contém soluções para problemas comuns em competições de p
     ❌ 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)  
     ❌ 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)  
     ❌ 6. [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)  
-    ❌ 7. [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)  
+    ✅ 7. [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)  
     ❌ 8. [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)  
     ❌ 9. [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043)  
     ❌ 10. [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)  
@@ -53,7 +53,7 @@ Este repositório contém soluções para problemas comuns em competições de p
     ❌ 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)  
 
 **4. Vetores e matrizes**  
-    ❌ 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)  
+    ✅ 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)  
     ❌ 2. [Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)  
     ❌ 3. [Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)  
     ❌ 4. [Linha na Matriz](https://www.beecrowd.com.br/judge/pt/problems/view/1181)  
