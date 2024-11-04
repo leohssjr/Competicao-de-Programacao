@@ -16,7 +16,7 @@ Este repositório contém soluções para problemas comuns em competições de p
 * **C**, **C++** - Principais linguagens usadas para resolver os problemas.
 
 ## 💻 Exercícios preparatórios 
-1. Tipos de dados e operadores aritméticos, lógicos e relacionais  
+**1. Tipos de dados e operadores aritméticos, lógicos e relacionais**  
     ✅ 1. [Soma Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1003)  
     ✅ 2. [Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007)  
     ✅ 3. [Área do círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002)  
@@ -28,7 +28,7 @@ Este repositório contém soluções para problemas comuns em competições de p
     ❌ 9. [O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013)  
     ❌ 10. [Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)  
 
-2. Condicionais  
+**2. Condicionais**     
     ❌ 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)  
     ❌ 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)  
     ❌ 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)  
@@ -40,7 +40,7 @@ Este repositório contém soluções para problemas comuns em competições de p
     ❌ 9. [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043)  
     ❌ 10. [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)  
 
-3. Laços  
+**3. Laços**  
     ❌ 1. [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059)  
     ❌ 2. [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113)  
     ❌ 3. [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)  
@@ -52,7 +52,7 @@ Este repositório contém soluções para problemas comuns em competições de p
     ❌ 9. [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164)  
     ❌ 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)  
 
-4. Vetores e matrizes  
+**4. Vetores e matrizes**  
     ❌ 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)  
     ❌ 2. [Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)  
     ❌ 3. [Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)  
@@ -64,7 +64,7 @@ Este repositório contém soluções para problemas comuns em competições de p
     ❌ 9. [O Enigma da Pronolândia](https://www.beecrowd.com.br/judge/pt/problems/view/1984)  
     ❌ 10. [Sequência da Sequência](https://www.beecrowd.com.br/judge/pt/problems/view/2028)  
 
-5. Funções e strings  
+**5. Funções e strings**  
     ❌ 1. [De Quem é a Vez?](https://www.beecrowd.com.br/judge/pt/problems/view/1914)  
     ❌ 2. [Bazinga!](https://www.beecrowd.com.br/judge/pt/problems/view/1828)  
     ❌ 3. [Um-Dois-Três](https://www.beecrowd.com.br/judge/pt/problems/view/1332)  
@@ -76,7 +76,7 @@ Este repositório contém soluções para problemas comuns em competições de p
     ❌ 9. [Problemas com a Calculadora](https://www.beecrowd.com.br/judge/pt/problems/view/2694)  
     ❌ 10. [Conversa Internacional](https://www.beecrowd.com.br/judge/pt/problems/view/1581)  
 
-6. Revisão geral  
+**6. Revisão geral**  
     ❌ 1. [Corrida](https://www.beecrowd.com.br/judge/pt/problems/view/2416)  
     ❌ 2. [Tira-teima](https://www.beecrowd.com.br/judge/pt/problems/view/2424)  
     ❌ 3. [Vice-Campeão](https://www.beecrowd.com.br/judge/pt/problems/view/2408)  
