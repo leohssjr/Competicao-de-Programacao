@@ -24,7 +24,7 @@ Este repositório contém soluções para problemas comuns em competições de p
     ✅ 5. [Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006)  
     ✅ 6. [Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012)  
     ✅ 7. [Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017)  
-    ❌ 8. [Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019)  
+    ✅ 8. [Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019)  
     ❌ 9. [O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013)  
     ❌ 10. [Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)  
 
