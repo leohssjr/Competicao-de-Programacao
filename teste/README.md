@@ -30,9 +30,21 @@ Este projeto é distribuído como software livre, sob a licença [MIT](./LICENSE
 ## 👤 Equipe
 
 
-| <img src="https://github.com/Arturhk05.png" width="150">  <br> [**Artur Handow Krauspenhar**](https://github.com/Arturhk05) | <img src="https://github.com/Diaxiz.png" width="150">  <br> [**Diassis Bezerra Nascimento**](https://github.com/Diaxiz) | <img src="https://github.com/Edumorais08.png" width="150">  <br> [**Eduardo de Almeida Morais**](https://github.com/Edumorais08) |
-| :---------: | :---------: | :---------: |
-| <img src="https://github.com/fbressa.png" width="150">  <br> [**Filipe Bressanelli Azevedo Filho**](https://github.com/fbressa) | <img src="https://github.com/Guga301104.png" width="150">  <br> [**Gustavo Gontijo Lima**](https://github.com/Guga301104) | <img src="https://github.com/leohssjr.png" width="150">  <br> [**Leonardo Henrique Sobral Sauma Junior**](https://github.com/leohssjr) |
+<div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="https://github.com/Arturhk05.png" width="150">  <br> [**_Artur Handow Krauspenhar_**](https://github.com/Arturhk05)</td>
+      <td><img src="https://github.com/Diaxiz.png" width="150">  <br> [**_Diassis Bezerra Nascimento_**](https://github.com/Diaxiz)</td>
+      <td><img src="https://github.com/Edumorais08.png" width="150">  <br> [**_Eduardo de Almeida Morais_**](https://github.com/Edumorais08)</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/fbressa.png" width="150">  <br> [**_Filipe Bressanelli Azevedo Filho_**](https://github.com/fbressa)</td>
+      <td><img src="https://github.com/Guga301104.png" width="150">  <br> [**_Gustavo Gontijo Lima_**](https://github.com/Guga301104)</td>
+      <td><img src="https://github.com/leohssjr.png" width="150">  <br> [**_Leonardo Henrique Sobral Sauma Junior_**](https://github.com/leohssjr)</td>
+    </tr>
+  </table>
+</div>
+
 
 
 
