@@ -31,12 +31,13 @@ Este projeto é distribuído como software livre, sob a licença [MIT](./LICENSE
 
 | Nome                           | GitHub | Foto |
 | :----------------------------- | :--------------------------------------------------------: | :------------------------------------------------: |
-| Artur Handow Krauspenhar         | [Arturhk05](https://github.com/Arturhk05)                | ![Artur](https://github.com/Arturhk05.png?size=50) |
-| Diassis Bezerra Nascimento      | [Diaxiz](https://github.com/Diaxiz)                       | ![Diassis](https://github.com/Diaxiz.png?size=50) |
-| Eduardo de Almeida Morais    | [Edumorais08](https://github.com/Edumorais08)             | ![Eduardo](https://github.com/Edumorais08.png?size=50) |
-| Filipe Bressanelli Azevedo Filho | [fbressa](https://github.com/fbressa)                    | ![Filipe](https://github.com/fbressa.png?size=50) |
-| Gustavo Gontijo Lima        | [Guga301104](https://github.com/Guga301104)              | ![Gustavo](https://github.com/Guga301104.png?size=50) |
-| Leonardo Henrique Sobral Sauma Junior | [leohssjr](https://github.com/leohssjr)          | ![Leonardo](https://github.com/leohssjr.png?size=50) |
+| Artur Handow Krauspenhar         | [Arturhk05](https://github.com/Arturhk05)                | <img src="https://github.com/Arturhk05.png" width="50"> |
+| Diassis Bezerra Nascimento      | [Diaxiz](https://github.com/Diaxiz)                       | <img src="https://github.com/Diaxiz.png" width="50"> |
+| Eduardo de Almeida Morais    | [Edumorais08](https://github.com/Edumorais08)             | <img src="https://github.com/Edumorais08.png" width="50"> |
+| Filipe Bressanelli Azevedo Filho | [fbressa](https://github.com/fbressa)                    | <img src="https://github.com/fbressa.png" width="50"> |
+| Gustavo Gontijo Lima        | [Guga301104](https://github.com/Guga301104)              | <img src="https://github.com/Guga301104.png" width="50"> |
+| Leonardo Henrique Sobral Sauma Junior | [leohssjr](https://github.com/leohssjr)          | <img src="https://github.com/leohssjr.png" width="50"> |
+
 
 ## 🚀 Primeiros Passos
 
